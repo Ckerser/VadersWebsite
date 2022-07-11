@@ -1,0 +1,41 @@
+h2 {
+    background-color: lightskyblue;
+}
+
+h1 {
+    font-family: Georgia;
+    color: #0F8EE1;
+}
+
+.text {
+    color: #0000ff;
+}
+
+table, tr, th, td {
+    border-collapse: collapse;
+    border: 1px solid black;
+    width: 30%;
+    text-align: center;
+}
+
+ h3 {
+    background-color: lightskyblue;
+}
+
+.info {
+    float: left;
+    width: 800px;
+}
+
+.vaderpic {
+    float: left;
+}
+
+.vaderpic img {
+    height: 500px;
+    width: 500px;
+}
+
+.interest {
+    clear: both;
+}
